@@ -1,0 +1,2 @@
+this Depth of Filed Workshop is modified to bind another texture to the middle green teapot and blend accordingly
+using the mix function (the texture bound to be mixed is the outcome of the color buffer of m_fbo1 that we first rendered to)
